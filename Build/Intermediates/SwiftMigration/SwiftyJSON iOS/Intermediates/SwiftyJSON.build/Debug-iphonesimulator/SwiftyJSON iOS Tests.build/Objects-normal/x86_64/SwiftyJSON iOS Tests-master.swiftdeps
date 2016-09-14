@@ -1,0 +1,17 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "6821d3d410b133681cf7278cfecb2284"
+build_time: [527189450, 664439000]
+inputs:
+  "/Users/loudermilk/Documents/GitHub/SwiftyJSON/Tests/NumberTests.swift": [9223372036854775807, 0]
+  "/Users/loudermilk/Documents/GitHub/SwiftyJSON/Tests/SequenceTypeTests.swift": [9223372036854775807, 0]
+  "/Users/loudermilk/Documents/GitHub/SwiftyJSON/Tests/PerformanceTests.swift": [9223372036854775807, 0]
+  "/Users/loudermilk/Documents/GitHub/SwiftyJSON/Tests/RawRepresentableTests.swift": [9223372036854775807, 0]
+  "/Users/loudermilk/Documents/GitHub/SwiftyJSON/Tests/SubscriptTests.swift": [9223372036854775807, 0]
+  "/Users/loudermilk/Documents/GitHub/SwiftyJSON/Tests/RawTests.swift": [9223372036854775807, 0]
+  "/Users/loudermilk/Documents/GitHub/SwiftyJSON/Tests/BaseTests.swift": [9223372036854775807, 0]
+  "/Users/loudermilk/Documents/GitHub/SwiftyJSON/Tests/ArrayTests.swift": [9223372036854775807, 0]
+  "/Users/loudermilk/Documents/GitHub/SwiftyJSON/Tests/DictionaryTests.swift": [9223372036854775807, 0]
+  "/Users/loudermilk/Documents/GitHub/SwiftyJSON/Tests/PrintableTests.swift": [9223372036854775807, 0]
+  "/Users/loudermilk/Documents/GitHub/SwiftyJSON/Tests/LiteralConvertibleTests.swift": [9223372036854775807, 0]
+  "/Users/loudermilk/Documents/GitHub/SwiftyJSON/Tests/StringTests.swift": [9223372036854775807, 0]
+  "/Users/loudermilk/Documents/GitHub/SwiftyJSON/Tests/ComparableTests.swift": [9223372036854775807, 0]

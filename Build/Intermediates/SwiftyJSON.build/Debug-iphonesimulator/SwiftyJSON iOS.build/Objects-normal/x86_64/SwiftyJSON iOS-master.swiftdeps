@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.3 (swiftlang-800.10.12 clang-800.0.38)"
+options: "a40fa7dc449f856801ca8e4069a7d94c"
+build_time: [527189498, 506520000]
+inputs:
+  "/Users/loudermilk/Documents/GitHub/SwiftyJSON/Source/SwiftyJSON.swift": [9223372036854775807, 0]
